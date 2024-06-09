@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+ overflow-x: hidden;
+ direction: rtl;
+ font-family: Vazir;
+ font-weight: 500;
+}
+.table-container{
+
+    overflow-x: auto;
+}
+h1{
+    font-size: 1.3rem ;
+  line-height: 1.75rem ;
+  font-weight: bold;
+}
+@media (max-width: 400px) {
+    table {
+      width: 400px; /* Set a minimum width for the table */
+    }
+  }
+  
+
