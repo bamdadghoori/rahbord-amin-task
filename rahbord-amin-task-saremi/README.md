@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is next.js project by bamdad saremi. This is a task is sent to rahbord ideal amin company.
 
 ## Getting Started
 
